@@ -21,7 +21,8 @@ jobs:
           python-version: '3.13.16'
           architecture: x64
       - name: Install hash-locked signing dependencies
-        run: python -m pip install --require-hashes --only-binary=:all: -r maintenance/requirements.txt
+        run: |
+          python -m pip install --require-hashes --only-binary=:all: -r maintenance/requirements.txt
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
           ref: long-term-metadata
