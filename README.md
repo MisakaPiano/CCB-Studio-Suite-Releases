@@ -1,3 +1,12 @@
+<!-- suite-download-entry-20261024 -->
+> [!IMPORTANT]
+> ## 新版已迁至主库
+> 请前往 **[CCB-Studio-Suite 主库发布列表](https://github.com/MisakaPiano/CCB-Studio-Suite/releases)** 获取新版，按主库 README 指引在 Assets 下载 Windows 安装程序。
+>
+> 当前仍为实验性邀请 Preview，尚非稳定版。本仓库保留旧版本、旧下载地址及 102／103 → 104 桥接更新通道，不删除、不替换历史包或信任配置。以下内容为历史测试及迁移记录，现状以主库说明为准。
+
+---
+
 <!-- release-migration-20261023 -->
 ## Release distribution moved to the project repository
 
